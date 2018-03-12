@@ -1,0 +1,11 @@
+C:\Users\Josh Tierra\Source\Repos\Scrapper Settings\Scrapper Settings\bin\Debug\Scrapper Settings.exe.config
+C:\Users\Josh Tierra\Source\Repos\Scrapper Settings\Scrapper Settings\bin\Debug\Scrapper Settings.exe
+C:\Users\Josh Tierra\Source\Repos\Scrapper Settings\Scrapper Settings\bin\Debug\Scrapper Settings.pdb
+C:\Users\Josh Tierra\Source\Repos\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper Settings.csprojResolveAssemblyReference.cache
+C:\Users\Josh Tierra\Source\Repos\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper_Settings.Properties.Resources.resources
+C:\Users\Josh Tierra\Source\Repos\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper Settings.csproj.GenerateResource.Cache
+C:\Users\Josh Tierra\Source\Repos\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper Settings.csproj.CoreCompileInputs.cache
+C:\Users\Josh Tierra\Source\Repos\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper Settings.exe
+C:\Users\Josh Tierra\Source\Repos\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper Settings.pdb
+C:\Users\Josh Tierra\Source\Repos\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper_Settings.URL_Form.resources
+C:\Users\Josh Tierra\Source\Repos\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper_Settings.Scrape_Form.resources
