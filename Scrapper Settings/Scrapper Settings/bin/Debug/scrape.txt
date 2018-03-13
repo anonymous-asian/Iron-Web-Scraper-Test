@@ -1,0 +1,2176 @@
+
+
+						<div class="columns">
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-JTMZFREVXJJ731514">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a></h2>						
+						</div>
+					
+
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-JTMZFREVXJJ731514">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a></h2>						
+						
+
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-JTMZFREVXJJ731514">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a>
+																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span>
+2018 Toyota RAV4 LE FWD 
+
+						<div class="medium-4 medium-push-8 columns">		
+
+<meta itemprop='serialNumber' content='JTMZFREVXJJ731514'><div class='row'><div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26693'></span>26,693</span></span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_2414159965aa811c14939b&vin=JTMZFREVXJJ731514&bprice=21888')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_2414159965aa811c14939b').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_2414159965aa811c14939b" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												</div>
+						<div class="medium-8 medium-pull-4 columns" itemprop="itemOffered" itemscope="" itemtype="http://schema.org/Product">
+							
+<meta itemprop='name' content='2018 Toyota RAV4 LE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='color' content='Magnetic Gray Metallic'>
+<meta itemprop='sku' content='731514 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Ext. Color:</span> Magnetic Gray Metallic</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 4</div><div class="column"><span>Stock:</span> 731514</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMZFREVXJJ731514</div></div>							<div class="row toolbar"></div>
+						</div>
+					
+		
+
+<meta itemprop='serialNumber' content='JTMZFREVXJJ731514'><div class='row'><div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26693'></span>26,693</span></span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_2414159965aa811c14939b&vin=JTMZFREVXJJ731514&bprice=21888')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_2414159965aa811c14939b').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_2414159965aa811c14939b" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												
+
+<div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26693'></span>26,693</span></span></div>
+<span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26693'></span>26,693</span></span>
+MSRP:
+<span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26693'></span>26,693</span>
+<span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26693'></span>26,693
+$
+
+
+
+function openModalBestPrice(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_2414159965aa811c14939b&vin=JTMZFREVXJJ731514&bprice=21888')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_2414159965aa811c14939b').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	
+
+		<a href="#" onclick="openModalBestPrice();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+
+<img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png">
+
+<button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   
+<span aria-hidden="true">&times;</span>
+&times;
+
+									Vehicles In Transit
+							
+Click To Call
+<a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a>
+Text Us
+
+							
+<meta itemprop='name' content='2018 Toyota RAV4 LE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='color' content='Magnetic Gray Metallic'>
+<meta itemprop='sku' content='731514 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Ext. Color:</span> Magnetic Gray Metallic</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 4</div><div class="column"><span>Stock:</span> 731514</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMZFREVXJJ731514</div></div>							<div class="row toolbar"></div>
+						
+
+
+
+
+
+
+
+				 
+							<div class="column"><span>Ext. Color:</span> Magnetic Gray Metallic</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 4</div><div class="column"><span>Stock:</span> 731514</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							
+<span>Ext. Color:</span> Magnetic Gray Metallic
+Ext. Color:
+<span>Int. Color:</span> Blk Fabric W/Trd Off-Road
+Int. Color:
+<span>Transmission:</span> Automatic
+Transmission:
+<span>Mileage:</span> 4
+Mileage:
+<span>Stock:</span> 731514
+Stock:
+<span>Drivetrain:</span> FWD
+Drivetrain:
+<span>Engine:</span> 4 Cylinders
+Engine:
+<div class="column"><span class="data-label">VIN</span> JTMZFREVXJJ731514</div>
+<span class="data-label">VIN</span> JTMZFREVXJJ731514
+VIN
+53
+
+						<div class="columns">
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-xle-JTMWFREV5JJ727129">																		
+						New <span itemprop='name'>2018 Toyota RAV4 XLE FWD </span></a></h2>						
+						</div>
+					
+
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-xle-JTMWFREV5JJ727129">																		
+						New <span itemprop='name'>2018 Toyota RAV4 XLE FWD </span></a></h2>						
+						
+
+												<a href="/vehicle-details/new-2018-toyota-rav4-xle-JTMWFREV5JJ727129">																		
+						New <span itemprop='name'>2018 Toyota RAV4 XLE FWD </span></a>
+																		
+						New <span itemprop='name'>2018 Toyota RAV4 XLE FWD </span>
+2018 Toyota RAV4 XLE FWD 
+
+						<div class="medium-4 medium-push-8 columns">		
+
+<meta itemprop='serialNumber' content='JTMWFREV5JJ727129'><div class='row'><div class='columns'><span class='left'>Price:</span><span class='right'><meta itemprop='priceCurrency' content='USD'><meta itemprop='price' content='0'>Call us</span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice1(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_1730211465aa811c1493fc&vin=JTMWFREV5JJ727129&bprice=0')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_1730211465aa811c1493fc').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice1();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_1730211465aa811c1493fc" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												</div>
+						<div class="medium-8 medium-pull-4 columns" itemprop="itemOffered" itemscope="" itemtype="http://schema.org/Product">
+							
+<meta itemprop='name' content='2018 Toyota RAV4 XLE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='sku' content='727129 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Stock:</span> 727129</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMWFREV5JJ727129</div></div>							<div class="row toolbar"></div>
+						</div>
+					
+		
+
+<meta itemprop='serialNumber' content='JTMWFREV5JJ727129'><div class='row'><div class='columns'><span class='left'>Price:</span><span class='right'><meta itemprop='priceCurrency' content='USD'><meta itemprop='price' content='0'>Call us</span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice1(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_1730211465aa811c1493fc&vin=JTMWFREV5JJ727129&bprice=0')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_1730211465aa811c1493fc').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice1();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_1730211465aa811c1493fc" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												
+
+<div class='columns'><span class='left'>Price:</span><span class='right'><meta itemprop='priceCurrency' content='USD'><meta itemprop='price' content='0'>Call us</span></div>
+<span class='left'>Price:</span><span class='right'><meta itemprop='priceCurrency' content='USD'><meta itemprop='price' content='0'>Call us</span>
+Price:
+<meta itemprop='priceCurrency' content='USD'><meta itemprop='price' content='0'>Call us
+
+
+
+
+function openModalBestPrice1(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_1730211465aa811c1493fc&vin=JTMWFREV5JJ727129&bprice=0')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_1730211465aa811c1493fc').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	
+
+		<a href="#" onclick="openModalBestPrice1();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+
+<img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png">
+
+<button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   
+<span aria-hidden="true">&times;</span>
+&times;
+
+									Vehicles In Transit
+							
+Click To Call
+<a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a>
+Text Us
+
+							
+<meta itemprop='name' content='2018 Toyota RAV4 XLE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='sku' content='727129 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Stock:</span> 727129</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMWFREV5JJ727129</div></div>							<div class="row toolbar"></div>
+						
+
+
+
+
+
+
+				 
+							<div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Stock:</span> 727129</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							
+<span>Transmission:</span> Automatic
+Transmission:
+<span>Stock:</span> 727129
+Stock:
+<span>Drivetrain:</span> FWD
+Drivetrain:
+<span>Engine:</span> 4 Cylinders
+Engine:
+<div class="column"><span class="data-label">VIN</span> JTMWFREV5JJ727129</div>
+<span class="data-label">VIN</span> JTMWFREV5JJ727129
+VIN
+45
+
+						<div class="columns">
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-JTMZFREV4JJ157993">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a></h2>						
+						</div>
+					
+
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-JTMZFREV4JJ157993">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a></h2>						
+						
+
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-JTMZFREV4JJ157993">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a>
+																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span>
+2018 Toyota RAV4 LE FWD 
+
+						<div class="medium-4 medium-push-8 columns">		
+
+<meta itemprop='serialNumber' content='JTMZFREV4JJ157993'><div class='row'><div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26668'></span>26,668</span></span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice2(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_4389544785aa811c149450&vin=JTMZFREV4JJ157993&bprice=21868')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_4389544785aa811c149450').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice2();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_4389544785aa811c149450" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												</div>
+						<div class="medium-8 medium-pull-4 columns" itemprop="itemOffered" itemscope="" itemtype="http://schema.org/Product">
+							
+<meta itemprop='name' content='2018 Toyota RAV4 LE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='color' content='Magnetic Gray Metallic'>
+<meta itemprop='sku' content='157993 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Ext. Color:</span> Magnetic Gray Metallic</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 6</div><div class="column"><span>Stock:</span> 157993</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMZFREV4JJ157993</div></div>							<div class="row toolbar"></div>
+						</div>
+					
+		
+
+<meta itemprop='serialNumber' content='JTMZFREV4JJ157993'><div class='row'><div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26668'></span>26,668</span></span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice2(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_4389544785aa811c149450&vin=JTMZFREV4JJ157993&bprice=21868')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_4389544785aa811c149450').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice2();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_4389544785aa811c149450" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												
+
+<div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26668'></span>26,668</span></span></div>
+<span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26668'></span>26,668</span></span>
+MSRP:
+<span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26668'></span>26,668</span>
+<span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26668'></span>26,668
+$
+
+
+
+function openModalBestPrice2(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_4389544785aa811c149450&vin=JTMZFREV4JJ157993&bprice=21868')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_4389544785aa811c149450').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	
+
+		<a href="#" onclick="openModalBestPrice2();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+
+<img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png">
+
+<button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   
+<span aria-hidden="true">&times;</span>
+&times;
+
+									Vehicles In Transit
+							
+Click To Call
+<a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a>
+Text Us
+
+							
+<meta itemprop='name' content='2018 Toyota RAV4 LE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='color' content='Magnetic Gray Metallic'>
+<meta itemprop='sku' content='157993 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Ext. Color:</span> Magnetic Gray Metallic</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 6</div><div class="column"><span>Stock:</span> 157993</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMZFREV4JJ157993</div></div>							<div class="row toolbar"></div>
+						
+
+
+
+
+
+
+
+				 
+							<div class="column"><span>Ext. Color:</span> Magnetic Gray Metallic</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 6</div><div class="column"><span>Stock:</span> 157993</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							
+<span>Ext. Color:</span> Magnetic Gray Metallic
+Ext. Color:
+<span>Int. Color:</span> Blk Fabric W/Trd Off-Road
+Int. Color:
+<span>Transmission:</span> Automatic
+Transmission:
+<span>Mileage:</span> 6
+Mileage:
+<span>Stock:</span> 157993
+Stock:
+<span>Drivetrain:</span> FWD
+Drivetrain:
+<span>Engine:</span> 4 Cylinders
+Engine:
+<div class="column"><span class="data-label">VIN</span> JTMZFREV4JJ157993</div>
+<span class="data-label">VIN</span> JTMZFREV4JJ157993
+VIN
+53
+
+						<div class="columns">
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-2T3ZFREV1JW427764">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a></h2>						
+						</div>
+					
+
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-2T3ZFREV1JW427764">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a></h2>						
+						
+
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-2T3ZFREV1JW427764">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a>
+																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span>
+2018 Toyota RAV4 LE FWD 
+
+						<div class="medium-4 medium-push-8 columns">		
+
+<meta itemprop='serialNumber' content='2T3ZFREV1JW427764'><div class='row'><div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='27343'></span>27,343</span></span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice3(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_10140257845aa811c1494a2&vin=2T3ZFREV1JW427764&bprice=22421')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_10140257845aa811c1494a2').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice3();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_10140257845aa811c1494a2" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												</div>
+						<div class="medium-8 medium-pull-4 columns" itemprop="itemOffered" itemscope="" itemtype="http://schema.org/Product">
+							
+<meta itemprop='name' content='2018 Toyota RAV4 LE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='color' content='Super White'>
+<meta itemprop='sku' content='427764 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Ext. Color:</span> Super White</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 6</div><div class="column"><span>Stock:</span> 427764</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> 2T3ZFREV1JW427764</div></div>							<div class="row toolbar"></div>
+						</div>
+					
+		
+
+<meta itemprop='serialNumber' content='2T3ZFREV1JW427764'><div class='row'><div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='27343'></span>27,343</span></span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice3(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_10140257845aa811c1494a2&vin=2T3ZFREV1JW427764&bprice=22421')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_10140257845aa811c1494a2').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice3();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_10140257845aa811c1494a2" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												
+
+<div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='27343'></span>27,343</span></span></div>
+<span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='27343'></span>27,343</span></span>
+MSRP:
+<span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='27343'></span>27,343</span>
+<span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='27343'></span>27,343
+$
+
+
+
+function openModalBestPrice3(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_10140257845aa811c1494a2&vin=2T3ZFREV1JW427764&bprice=22421')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_10140257845aa811c1494a2').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	
+
+		<a href="#" onclick="openModalBestPrice3();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+
+<img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png">
+
+<button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   
+<span aria-hidden="true">&times;</span>
+&times;
+
+									Vehicles In Transit
+							
+Click To Call
+<a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a>
+Text Us
+
+							
+<meta itemprop='name' content='2018 Toyota RAV4 LE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='color' content='Super White'>
+<meta itemprop='sku' content='427764 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Ext. Color:</span> Super White</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 6</div><div class="column"><span>Stock:</span> 427764</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> 2T3ZFREV1JW427764</div></div>							<div class="row toolbar"></div>
+						
+
+
+
+
+
+
+
+				 
+							<div class="column"><span>Ext. Color:</span> Super White</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 6</div><div class="column"><span>Stock:</span> 427764</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							
+<span>Ext. Color:</span> Super White
+Ext. Color:
+<span>Int. Color:</span> Blk Fabric W/Trd Off-Road
+Int. Color:
+<span>Transmission:</span> Automatic
+Transmission:
+<span>Mileage:</span> 6
+Mileage:
+<span>Stock:</span> 427764
+Stock:
+<span>Drivetrain:</span> FWD
+Drivetrain:
+<span>Engine:</span> 4 Cylinders
+Engine:
+<div class="column"><span class="data-label">VIN</span> 2T3ZFREV1JW427764</div>
+<span class="data-label">VIN</span> 2T3ZFREV1JW427764
+VIN
+53
+
+						<div class="columns">
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-JTMZFREV3JJ730561">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a></h2>						
+						</div>
+					
+
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-JTMZFREV3JJ730561">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a></h2>						
+						
+
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-JTMZFREV3JJ730561">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a>
+																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span>
+2018 Toyota RAV4 LE FWD 
+
+						<div class="medium-4 medium-push-8 columns">		
+
+<meta itemprop='serialNumber' content='JTMZFREV3JJ730561'><div class='row'><div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='27368'></span>27,368</span></span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice4(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_16852390015aa811c1494f2&vin=JTMZFREV3JJ730561&bprice=22442')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_16852390015aa811c1494f2').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice4();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_16852390015aa811c1494f2" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												</div>
+						<div class="medium-8 medium-pull-4 columns" itemprop="itemOffered" itemscope="" itemtype="http://schema.org/Product">
+							
+<meta itemprop='name' content='2018 Toyota RAV4 LE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='color' content='Super White'>
+<meta itemprop='sku' content='730561 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Ext. Color:</span> Super White</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 4</div><div class="column"><span>Stock:</span> 730561</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMZFREV3JJ730561</div></div>							<div class="row toolbar"></div>
+						</div>
+					
+		
+
+<meta itemprop='serialNumber' content='JTMZFREV3JJ730561'><div class='row'><div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='27368'></span>27,368</span></span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice4(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_16852390015aa811c1494f2&vin=JTMZFREV3JJ730561&bprice=22442')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_16852390015aa811c1494f2').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice4();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_16852390015aa811c1494f2" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												
+
+<div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='27368'></span>27,368</span></span></div>
+<span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='27368'></span>27,368</span></span>
+MSRP:
+<span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='27368'></span>27,368</span>
+<span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='27368'></span>27,368
+$
+
+
+
+function openModalBestPrice4(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_16852390015aa811c1494f2&vin=JTMZFREV3JJ730561&bprice=22442')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_16852390015aa811c1494f2').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	
+
+		<a href="#" onclick="openModalBestPrice4();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+
+<img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png">
+
+<button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   
+<span aria-hidden="true">&times;</span>
+&times;
+
+									Vehicles In Transit
+							
+Click To Call
+<a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a>
+Text Us
+
+							
+<meta itemprop='name' content='2018 Toyota RAV4 LE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='color' content='Super White'>
+<meta itemprop='sku' content='730561 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Ext. Color:</span> Super White</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 4</div><div class="column"><span>Stock:</span> 730561</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMZFREV3JJ730561</div></div>							<div class="row toolbar"></div>
+						
+
+
+
+
+
+
+
+				 
+							<div class="column"><span>Ext. Color:</span> Super White</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 4</div><div class="column"><span>Stock:</span> 730561</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							
+<span>Ext. Color:</span> Super White
+Ext. Color:
+<span>Int. Color:</span> Blk Fabric W/Trd Off-Road
+Int. Color:
+<span>Transmission:</span> Automatic
+Transmission:
+<span>Mileage:</span> 4
+Mileage:
+<span>Stock:</span> 730561
+Stock:
+<span>Drivetrain:</span> FWD
+Drivetrain:
+<span>Engine:</span> 4 Cylinders
+Engine:
+<div class="column"><span class="data-label">VIN</span> JTMZFREV3JJ730561</div>
+<span class="data-label">VIN</span> JTMZFREV3JJ730561
+VIN
+53
+
+						<div class="columns">
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-JTMZFREV8JJ728854">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a></h2>						
+						</div>
+					
+
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-JTMZFREV8JJ728854">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a></h2>						
+						
+
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-JTMZFREV8JJ728854">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a>
+																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span>
+2018 Toyota RAV4 LE FWD 
+
+						<div class="medium-4 medium-push-8 columns">		
+
+<meta itemprop='serialNumber' content='JTMZFREV8JJ728854'><div class='row'><div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='27343'></span>27,343</span></span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice5(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_9654557305aa811c149542&vin=JTMZFREV8JJ728854&bprice=22421')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_9654557305aa811c149542').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice5();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_9654557305aa811c149542" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												</div>
+						<div class="medium-8 medium-pull-4 columns" itemprop="itemOffered" itemscope="" itemtype="http://schema.org/Product">
+							
+<meta itemprop='name' content='2018 Toyota RAV4 LE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='sku' content='728854 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 6</div><div class="column"><span>Stock:</span> 728854</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMZFREV8JJ728854</div></div>							<div class="row toolbar"></div>
+						</div>
+					
+		
+
+<meta itemprop='serialNumber' content='JTMZFREV8JJ728854'><div class='row'><div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='27343'></span>27,343</span></span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice5(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_9654557305aa811c149542&vin=JTMZFREV8JJ728854&bprice=22421')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_9654557305aa811c149542').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice5();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_9654557305aa811c149542" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												
+
+<div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='27343'></span>27,343</span></span></div>
+<span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='27343'></span>27,343</span></span>
+MSRP:
+<span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='27343'></span>27,343</span>
+<span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='27343'></span>27,343
+$
+
+
+
+function openModalBestPrice5(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_9654557305aa811c149542&vin=JTMZFREV8JJ728854&bprice=22421')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_9654557305aa811c149542').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	
+
+		<a href="#" onclick="openModalBestPrice5();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+
+<img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png">
+
+<button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   
+<span aria-hidden="true">&times;</span>
+&times;
+
+									Vehicles In Transit
+							
+Click To Call
+<a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a>
+Text Us
+
+							
+<meta itemprop='name' content='2018 Toyota RAV4 LE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='sku' content='728854 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 6</div><div class="column"><span>Stock:</span> 728854</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMZFREV8JJ728854</div></div>							<div class="row toolbar"></div>
+						
+
+
+
+
+
+
+				 
+							<div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 6</div><div class="column"><span>Stock:</span> 728854</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							
+<span>Int. Color:</span> Blk Fabric W/Trd Off-Road
+Int. Color:
+<span>Transmission:</span> Automatic
+Transmission:
+<span>Mileage:</span> 6
+Mileage:
+<span>Stock:</span> 728854
+Stock:
+<span>Drivetrain:</span> FWD
+Drivetrain:
+<span>Engine:</span> 4 Cylinders
+Engine:
+<div class="column"><span class="data-label">VIN</span> JTMZFREV8JJ728854</div>
+<span class="data-label">VIN</span> JTMZFREV8JJ728854
+VIN
+50
+
+						<div class="columns">
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-JTMZFREV7JJ730448">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a></h2>						
+						</div>
+					
+
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-JTMZFREV7JJ730448">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a></h2>						
+						
+
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-JTMZFREV7JJ730448">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a>
+																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span>
+2018 Toyota RAV4 LE FWD 
+
+						<div class="medium-4 medium-push-8 columns">		
+
+<meta itemprop='serialNumber' content='JTMZFREV7JJ730448'><div class='row'><div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26668'></span>26,668</span></span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice6(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_16597283105aa811c149592&vin=JTMZFREV7JJ730448&bprice=21868')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_16597283105aa811c149592').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice6();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_16597283105aa811c149592" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												</div>
+						<div class="medium-8 medium-pull-4 columns" itemprop="itemOffered" itemscope="" itemtype="http://schema.org/Product">
+							
+<meta itemprop='name' content='2018 Toyota RAV4 LE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='color' content='Magnetic Gray Metallic'>
+<meta itemprop='sku' content='730448 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Ext. Color:</span> Magnetic Gray Metallic</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 4</div><div class="column"><span>Stock:</span> 730448</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMZFREV7JJ730448</div></div>							<div class="row toolbar"></div>
+						</div>
+					
+		
+
+<meta itemprop='serialNumber' content='JTMZFREV7JJ730448'><div class='row'><div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26668'></span>26,668</span></span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice6(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_16597283105aa811c149592&vin=JTMZFREV7JJ730448&bprice=21868')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_16597283105aa811c149592').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice6();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_16597283105aa811c149592" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												
+
+<div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26668'></span>26,668</span></span></div>
+<span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26668'></span>26,668</span></span>
+MSRP:
+<span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26668'></span>26,668</span>
+<span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26668'></span>26,668
+$
+
+
+
+function openModalBestPrice6(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_16597283105aa811c149592&vin=JTMZFREV7JJ730448&bprice=21868')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_16597283105aa811c149592').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	
+
+		<a href="#" onclick="openModalBestPrice6();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+
+<img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png">
+
+<button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   
+<span aria-hidden="true">&times;</span>
+&times;
+
+									Vehicles In Transit
+							
+Click To Call
+<a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a>
+Text Us
+
+							
+<meta itemprop='name' content='2018 Toyota RAV4 LE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='color' content='Magnetic Gray Metallic'>
+<meta itemprop='sku' content='730448 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Ext. Color:</span> Magnetic Gray Metallic</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 4</div><div class="column"><span>Stock:</span> 730448</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMZFREV7JJ730448</div></div>							<div class="row toolbar"></div>
+						
+
+
+
+
+
+
+
+				 
+							<div class="column"><span>Ext. Color:</span> Magnetic Gray Metallic</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 4</div><div class="column"><span>Stock:</span> 730448</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							
+<span>Ext. Color:</span> Magnetic Gray Metallic
+Ext. Color:
+<span>Int. Color:</span> Blk Fabric W/Trd Off-Road
+Int. Color:
+<span>Transmission:</span> Automatic
+Transmission:
+<span>Mileage:</span> 4
+Mileage:
+<span>Stock:</span> 730448
+Stock:
+<span>Drivetrain:</span> FWD
+Drivetrain:
+<span>Engine:</span> 4 Cylinders
+Engine:
+<div class="column"><span class="data-label">VIN</span> JTMZFREV7JJ730448</div>
+<span class="data-label">VIN</span> JTMZFREV7JJ730448
+VIN
+53
+
+						<div class="columns">
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-2T3ZFREV1JW440093">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a></h2>						
+						</div>
+					
+
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-2T3ZFREV1JW440093">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a></h2>						
+						
+
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-2T3ZFREV1JW440093">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a>
+																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span>
+2018 Toyota RAV4 LE FWD 
+
+						<div class="medium-4 medium-push-8 columns">		
+
+<meta itemprop='serialNumber' content='2T3ZFREV1JW440093'><div class='row'><div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26693'></span>26,693</span></span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice7(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_8081643445aa811c1495e1&vin=2T3ZFREV1JW440093&bprice=21888')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_8081643445aa811c1495e1').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice7();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_8081643445aa811c1495e1" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												</div>
+						<div class="medium-8 medium-pull-4 columns" itemprop="itemOffered" itemscope="" itemtype="http://schema.org/Product">
+							
+<meta itemprop='name' content='2018 Toyota RAV4 LE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='color' content='Magnetic Gray Metallic'>
+<meta itemprop='sku' content='440093 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Ext. Color:</span> Magnetic Gray Metallic</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 4</div><div class="column"><span>Stock:</span> 440093</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> 2T3ZFREV1JW440093</div></div>							<div class="row toolbar"></div>
+						</div>
+					
+		
+
+<meta itemprop='serialNumber' content='2T3ZFREV1JW440093'><div class='row'><div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26693'></span>26,693</span></span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice7(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_8081643445aa811c1495e1&vin=2T3ZFREV1JW440093&bprice=21888')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_8081643445aa811c1495e1').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice7();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_8081643445aa811c1495e1" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												
+
+<div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26693'></span>26,693</span></span></div>
+<span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26693'></span>26,693</span></span>
+MSRP:
+<span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26693'></span>26,693</span>
+<span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26693'></span>26,693
+$
+
+
+
+function openModalBestPrice7(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_8081643445aa811c1495e1&vin=2T3ZFREV1JW440093&bprice=21888')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_8081643445aa811c1495e1').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	
+
+		<a href="#" onclick="openModalBestPrice7();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+
+<img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png">
+
+<button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   
+<span aria-hidden="true">&times;</span>
+&times;
+
+									Vehicles In Transit
+							
+Click To Call
+<a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a>
+Text Us
+
+							
+<meta itemprop='name' content='2018 Toyota RAV4 LE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='color' content='Magnetic Gray Metallic'>
+<meta itemprop='sku' content='440093 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Ext. Color:</span> Magnetic Gray Metallic</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 4</div><div class="column"><span>Stock:</span> 440093</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> 2T3ZFREV1JW440093</div></div>							<div class="row toolbar"></div>
+						
+
+
+
+
+
+
+
+				 
+							<div class="column"><span>Ext. Color:</span> Magnetic Gray Metallic</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 4</div><div class="column"><span>Stock:</span> 440093</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							
+<span>Ext. Color:</span> Magnetic Gray Metallic
+Ext. Color:
+<span>Int. Color:</span> Blk Fabric W/Trd Off-Road
+Int. Color:
+<span>Transmission:</span> Automatic
+Transmission:
+<span>Mileage:</span> 4
+Mileage:
+<span>Stock:</span> 440093
+Stock:
+<span>Drivetrain:</span> FWD
+Drivetrain:
+<span>Engine:</span> 4 Cylinders
+Engine:
+<div class="column"><span class="data-label">VIN</span> 2T3ZFREV1JW440093</div>
+<span class="data-label">VIN</span> 2T3ZFREV1JW440093
+VIN
+53
+
+						<div class="columns">
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-JTMZFREV4JJ730472">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a></h2>						
+						</div>
+					
+
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-JTMZFREV4JJ730472">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a></h2>						
+						
+
+												<a href="/vehicle-details/new-2018-toyota-rav4-le-JTMZFREV4JJ730472">																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span></a>
+																		
+						New <span itemprop='name'>2018 Toyota RAV4 LE FWD </span>
+2018 Toyota RAV4 LE FWD 
+
+						<div class="medium-4 medium-push-8 columns">		
+
+<meta itemprop='serialNumber' content='JTMZFREV4JJ730472'><div class='row'><div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26668'></span>26,668</span></span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice8(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_18830339835aa811c149631&vin=JTMZFREV4JJ730472&bprice=21868')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_18830339835aa811c149631').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice8();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_18830339835aa811c149631" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												</div>
+						<div class="medium-8 medium-pull-4 columns" itemprop="itemOffered" itemscope="" itemtype="http://schema.org/Product">
+							
+<meta itemprop='name' content='2018 Toyota RAV4 LE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='color' content='Magnetic Gray Metallic'>
+<meta itemprop='sku' content='730472 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Ext. Color:</span> Magnetic Gray Metallic</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 4</div><div class="column"><span>Stock:</span> 730472</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMZFREV4JJ730472</div></div>							<div class="row toolbar"></div>
+						</div>
+					
+		
+
+<meta itemprop='serialNumber' content='JTMZFREV4JJ730472'><div class='row'><div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26668'></span>26,668</span></span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice8(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_18830339835aa811c149631&vin=JTMZFREV4JJ730472&bprice=21868')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_18830339835aa811c149631').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice8();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_18830339835aa811c149631" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												
+
+<div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26668'></span>26,668</span></span></div>
+<span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26668'></span>26,668</span></span>
+MSRP:
+<span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26668'></span>26,668</span>
+<span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='26668'></span>26,668
+$
+
+
+
+function openModalBestPrice8(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_18830339835aa811c149631&vin=JTMZFREV4JJ730472&bprice=21868')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_18830339835aa811c149631').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	
+
+		<a href="#" onclick="openModalBestPrice8();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+
+<img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png">
+
+<button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   
+<span aria-hidden="true">&times;</span>
+&times;
+
+									Vehicles In Transit
+							
+Click To Call
+<a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a>
+Text Us
+
+							
+<meta itemprop='name' content='2018 Toyota RAV4 LE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='color' content='Magnetic Gray Metallic'>
+<meta itemprop='sku' content='730472 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Ext. Color:</span> Magnetic Gray Metallic</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 4</div><div class="column"><span>Stock:</span> 730472</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMZFREV4JJ730472</div></div>							<div class="row toolbar"></div>
+						
+
+
+
+
+
+
+
+				 
+							<div class="column"><span>Ext. Color:</span> Magnetic Gray Metallic</div><div class="column"><span>Int. Color:</span> Blk Fabric W/Trd Off-Road</div><div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Mileage:</span> 4</div><div class="column"><span>Stock:</span> 730472</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							
+<span>Ext. Color:</span> Magnetic Gray Metallic
+Ext. Color:
+<span>Int. Color:</span> Blk Fabric W/Trd Off-Road
+Int. Color:
+<span>Transmission:</span> Automatic
+Transmission:
+<span>Mileage:</span> 4
+Mileage:
+<span>Stock:</span> 730472
+Stock:
+<span>Drivetrain:</span> FWD
+Drivetrain:
+<span>Engine:</span> 4 Cylinders
+Engine:
+<div class="column"><span class="data-label">VIN</span> JTMZFREV4JJ730472</div>
+<span class="data-label">VIN</span> JTMZFREV4JJ730472
+VIN
+53
+
+						<div class="columns">
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-xle-JTMWFREV4JD114546">																		
+						New <span itemprop='name'>2018 Toyota RAV4 XLE FWD </span></a></h2>						
+						</div>
+					
+
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-xle-JTMWFREV4JD114546">																		
+						New <span itemprop='name'>2018 Toyota RAV4 XLE FWD </span></a></h2>						
+						
+
+												<a href="/vehicle-details/new-2018-toyota-rav4-xle-JTMWFREV4JD114546">																		
+						New <span itemprop='name'>2018 Toyota RAV4 XLE FWD </span></a>
+																		
+						New <span itemprop='name'>2018 Toyota RAV4 XLE FWD </span>
+2018 Toyota RAV4 XLE FWD 
+
+						<div class="medium-4 medium-push-8 columns">		
+
+<meta itemprop='serialNumber' content='JTMWFREV4JD114546'><div class='row'><div class='columns'><span class='left'>Price:</span><span class='right'><meta itemprop='priceCurrency' content='USD'><meta itemprop='price' content='0'>Call us</span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice9(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_11174574125aa811c149680&vin=JTMWFREV4JD114546&bprice=0')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_11174574125aa811c149680').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice9();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_11174574125aa811c149680" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												</div>
+						<div class="medium-8 medium-pull-4 columns" itemprop="itemOffered" itemscope="" itemtype="http://schema.org/Product">
+							
+<meta itemprop='name' content='2018 Toyota RAV4 XLE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='sku' content='114546 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Stock:</span> 114546</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMWFREV4JD114546</div></div>							<div class="row toolbar"></div>
+						</div>
+					
+		
+
+<meta itemprop='serialNumber' content='JTMWFREV4JD114546'><div class='row'><div class='columns'><span class='left'>Price:</span><span class='right'><meta itemprop='priceCurrency' content='USD'><meta itemprop='price' content='0'>Call us</span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice9(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_11174574125aa811c149680&vin=JTMWFREV4JD114546&bprice=0')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_11174574125aa811c149680').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice9();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_11174574125aa811c149680" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												
+
+<div class='columns'><span class='left'>Price:</span><span class='right'><meta itemprop='priceCurrency' content='USD'><meta itemprop='price' content='0'>Call us</span></div>
+<span class='left'>Price:</span><span class='right'><meta itemprop='priceCurrency' content='USD'><meta itemprop='price' content='0'>Call us</span>
+Price:
+<meta itemprop='priceCurrency' content='USD'><meta itemprop='price' content='0'>Call us
+
+
+
+
+function openModalBestPrice9(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_11174574125aa811c149680&vin=JTMWFREV4JD114546&bprice=0')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_11174574125aa811c149680').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	
+
+		<a href="#" onclick="openModalBestPrice9();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+
+<img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png">
+
+<button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   
+<span aria-hidden="true">&times;</span>
+&times;
+
+									Vehicles In Transit
+							
+Click To Call
+<a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a>
+Text Us
+
+							
+<meta itemprop='name' content='2018 Toyota RAV4 XLE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='sku' content='114546 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Stock:</span> 114546</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMWFREV4JD114546</div></div>							<div class="row toolbar"></div>
+						
+
+
+
+
+
+
+				 
+							<div class="column"><span>Transmission:</span> Automatic</div><div class="column"><span>Stock:</span> 114546</div><div class="column hide-for-small"><span>Drivetrain:</span> FWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							
+<span>Transmission:</span> Automatic
+Transmission:
+<span>Stock:</span> 114546
+Stock:
+<span>Drivetrain:</span> FWD
+Drivetrain:
+<span>Engine:</span> 4 Cylinders
+Engine:
+<div class="column"><span class="data-label">VIN</span> JTMWFREV4JD114546</div>
+<span class="data-label">VIN</span> JTMWFREV4JD114546
+VIN
+45
+
+						<div class="columns">
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-hybrid-hybrid-xle-JTMRJREV6JD197232">																		
+						New <span itemprop='name'>2018 Toyota RAV4 Hybrid  XLE AWD </span></a></h2>						
+						</div>
+					
+
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-hybrid-hybrid-xle-JTMRJREV6JD197232">																		
+						New <span itemprop='name'>2018 Toyota RAV4 Hybrid  XLE AWD </span></a></h2>						
+						
+
+												<a href="/vehicle-details/new-2018-toyota-rav4-hybrid-hybrid-xle-JTMRJREV6JD197232">																		
+						New <span itemprop='name'>2018 Toyota RAV4 Hybrid  XLE AWD </span></a>
+																		
+						New <span itemprop='name'>2018 Toyota RAV4 Hybrid  XLE AWD </span>
+2018 Toyota RAV4 Hybrid  XLE AWD 
+
+						<div class="medium-4 medium-push-8 columns">		
+
+<meta itemprop='serialNumber' content='JTMRJREV6JD197232'><div class='row'><div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='31239'></span>31,239</span></span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice10(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_164933575aa811c1496d0&vin=JTMRJREV6JD197232&bprice=25616')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_164933575aa811c1496d0').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice10();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_164933575aa811c1496d0" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4 Hybrid">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												</div>
+						<div class="medium-8 medium-pull-4 columns" itemprop="itemOffered" itemscope="" itemtype="http://schema.org/Product">
+							
+<meta itemprop='name' content='2018 Toyota RAV4 Hybrid  XLE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4 Hybrid'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='color' content='Black Sand Pearl'>
+<meta itemprop='sku' content='197232 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Ext. Color:</span> Black Sand Pearl</div><div class="column"><span>Int. Color:</span> Nutmeg</div><div class="column"><span>Transmission:</span> Variable</div><div class="column"><span>Mileage:</span> 4</div><div class="column"><span>Stock:</span> 197232</div><div class="column hide-for-small"><span>Drivetrain:</span> AWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMRJREV6JD197232</div></div>							<div class="row toolbar"></div>
+						</div>
+					
+		
+
+<meta itemprop='serialNumber' content='JTMRJREV6JD197232'><div class='row'><div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='31239'></span>31,239</span></span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice10(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_164933575aa811c1496d0&vin=JTMRJREV6JD197232&bprice=25616')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_164933575aa811c1496d0').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice10();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_164933575aa811c1496d0" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4 Hybrid">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												
+
+<div class='columns'><span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='31239'></span>31,239</span></span></div>
+<span class='left'>MSRP:</span><span class='right' style='color:red;text-decoration:line-through;'><span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='31239'></span>31,239</span></span>
+MSRP:
+<span style='color:black;'><span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='31239'></span>31,239</span>
+<span itemprop='priceCurrency' content='USD'>$</span><span itemprop='price' content='31239'></span>31,239
+$
+
+
+
+function openModalBestPrice10(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_164933575aa811c1496d0&vin=JTMRJREV6JD197232&bprice=25616')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_164933575aa811c1496d0').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	
+
+		<a href="#" onclick="openModalBestPrice10();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+
+<img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png">
+
+<button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   
+<span aria-hidden="true">&times;</span>
+&times;
+
+									Vehicles In Transit
+							
+Click To Call
+<a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a>
+Text Us
+
+							
+<meta itemprop='name' content='2018 Toyota RAV4 Hybrid  XLE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4 Hybrid'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='color' content='Black Sand Pearl'>
+<meta itemprop='sku' content='197232 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Ext. Color:</span> Black Sand Pearl</div><div class="column"><span>Int. Color:</span> Nutmeg</div><div class="column"><span>Transmission:</span> Variable</div><div class="column"><span>Mileage:</span> 4</div><div class="column"><span>Stock:</span> 197232</div><div class="column hide-for-small"><span>Drivetrain:</span> AWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMRJREV6JD197232</div></div>							<div class="row toolbar"></div>
+						
+
+
+
+
+
+
+
+				 
+							<div class="column"><span>Ext. Color:</span> Black Sand Pearl</div><div class="column"><span>Int. Color:</span> Nutmeg</div><div class="column"><span>Transmission:</span> Variable</div><div class="column"><span>Mileage:</span> 4</div><div class="column"><span>Stock:</span> 197232</div><div class="column hide-for-small"><span>Drivetrain:</span> AWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							
+<span>Ext. Color:</span> Black Sand Pearl
+Ext. Color:
+<span>Int. Color:</span> Nutmeg
+Int. Color:
+<span>Transmission:</span> Variable
+Transmission:
+<span>Mileage:</span> 4
+Mileage:
+<span>Stock:</span> 197232
+Stock:
+<span>Drivetrain:</span> AWD
+Drivetrain:
+<span>Engine:</span> 4 Cylinders
+Engine:
+<div class="column"><span class="data-label">VIN</span> JTMRJREV6JD197232</div>
+<span class="data-label">VIN</span> JTMRJREV6JD197232
+VIN
+53
+
+						<div class="columns">
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-hybrid-hybrid-xle-JTMRJREV4JD181322">																		
+						New <span itemprop='name'>2018 Toyota RAV4 Hybrid  XLE AWD </span></a></h2>						
+						</div>
+					
+
+						<h2 class="srp-vehicle-title">
+												<a href="/vehicle-details/new-2018-toyota-rav4-hybrid-hybrid-xle-JTMRJREV4JD181322">																		
+						New <span itemprop='name'>2018 Toyota RAV4 Hybrid  XLE AWD </span></a></h2>						
+						
+
+												<a href="/vehicle-details/new-2018-toyota-rav4-hybrid-hybrid-xle-JTMRJREV4JD181322">																		
+						New <span itemprop='name'>2018 Toyota RAV4 Hybrid  XLE AWD </span></a>
+																		
+						New <span itemprop='name'>2018 Toyota RAV4 Hybrid  XLE AWD </span>
+2018 Toyota RAV4 Hybrid  XLE AWD 
+
+						<div class="medium-4 medium-push-8 columns">		
+
+<meta itemprop='serialNumber' content='JTMRJREV4JD181322'><div class='row'><div class='columns'><span class='left'>Price:</span><span class='right'><meta itemprop='priceCurrency' content='USD'><meta itemprop='price' content='0'>Call us</span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice11(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_13358399915aa811c14971f&vin=JTMRJREV4JD181322&bprice=0')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_13358399915aa811c14971f').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice11();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_13358399915aa811c14971f" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4 Hybrid">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												</div>
+						<div class="medium-8 medium-pull-4 columns" itemprop="itemOffered" itemscope="" itemtype="http://schema.org/Product">
+							
+<meta itemprop='name' content='2018 Toyota RAV4 Hybrid  XLE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4 Hybrid'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='sku' content='181322 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Transmission:</span> Variable</div><div class="column"><span>Stock:</span> 181322</div><div class="column hide-for-small"><span>Drivetrain:</span> AWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMRJREV4JD181322</div></div>							<div class="row toolbar"></div>
+						</div>
+					
+		
+
+<meta itemprop='serialNumber' content='JTMRJREV4JD181322'><div class='row'><div class='columns'><span class='left'>Price:</span><span class='right'><meta itemprop='priceCurrency' content='USD'><meta itemprop='price' content='0'>Call us</span></div></div>
+
+ 
+		<script>
+
+function openModalBestPrice11(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_13358399915aa811c14971f&vin=JTMRJREV4JD181322&bprice=0')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_13358399915aa811c14971f').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	</script>
+	<center>
+		<a href="#" onclick="openModalBestPrice11();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+</center>
+		
+		
+	<div id="popup_13358399915aa811c14971f" class="reveal large" style="overflow: scroll;" data-reveal=""><button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   </div>
+	
+
+
+
+
+				<a class="transitBtn button expanded secondary" href="/inventory?type=new&intransit=true&model=RAV4 Hybrid">
+									Vehicles In Transit
+							</a>
+			
+<a href="tel:(855) 599-2610 " class="button expanded secondary show-for-small-only callBTN">Click To Call</a>
+<center><a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a></center>
+ 
+						
+												
+
+<div class='columns'><span class='left'>Price:</span><span class='right'><meta itemprop='priceCurrency' content='USD'><meta itemprop='price' content='0'>Call us</span></div>
+<span class='left'>Price:</span><span class='right'><meta itemprop='priceCurrency' content='USD'><meta itemprop='price' content='0'>Call us</span>
+Price:
+<meta itemprop='priceCurrency' content='USD'><meta itemprop='price' content='0'>Call us
+
+
+
+
+function openModalBestPrice11(){
+	$.ajax('/form/ajax-popBestPrice.php?formName=bestprice&formCategory=general&formAjax=true&formModal=true&id=popup_13358399915aa811c14971f&vin=JTMRJREV4JD181322&bprice=0')
+	  .done(function(resp){
+		  //console.log(resp);
+		  $('#popup_13358399915aa811c14971f').html(resp).foundation('open');
+		  //console.log(resp.html);
+	});
+}
+
+	
+
+		<a href="#" onclick="openModalBestPrice11();"><img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png"></a> 
+
+<img src="https://s3.amazonaws.com/fzautomotive/dealers/588f7ddc58c08.png">
+
+<button class="close-button" style="background: transparent !important;" data-close="" aria-label="Close modal" type="button"><span aria-hidden="true">&times;</span></button>
+   
+<span aria-hidden="true">&times;</span>
+&times;
+
+									Vehicles In Transit
+							
+Click To Call
+<a id="cc24CustomSMSLink"  href="javascript:void(0)"  style="display:none;color: red;font-weight: bold;" onclick="cc24SMSChat.subscribeSMSChatEvent_Mobile()" class="button expanded secondary txtUS">Text Us</a>
+Text Us
+
+							
+<meta itemprop='name' content='2018 Toyota RAV4 Hybrid  XLE'>
+<meta itemprop='manufacturer' content='Toyota'>
+<meta itemprop='brand' content='Toyota'>
+<meta itemprop='model' content='RAV4 Hybrid'>
+<meta itemprop='releaseDate' content='2018'>
+<meta itemprop='sku' content='181322 '>			
+							<div class="row small-up-2 medium-up-2 srp-vehicle-data">				 
+							<div class="column"><span>Transmission:</span> Variable</div><div class="column"><span>Stock:</span> 181322</div><div class="column hide-for-small"><span>Drivetrain:</span> AWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							</div>
+							<div class="row small-up-1 medium-up-1 srp-vehicle-data"><div class="column"><span class="data-label">VIN</span> JTMRJREV4JD181322</div></div>							<div class="row toolbar"></div>
+						
+
+
+
+
+
+
+				 
+							<div class="column"><span>Transmission:</span> Variable</div><div class="column"><span>Stock:</span> 181322</div><div class="column hide-for-small"><span>Drivetrain:</span> AWD</div><div class="column hide-for-small"><span>Engine:</span> 4 Cylinders</div>							
+<span>Transmission:</span> Variable
+Transmission:
+<span>Stock:</span> 181322
+Stock:
+<span>Drivetrain:</span> AWD
+Drivetrain:
+<span>Engine:</span> 4 Cylinders
+Engine:
+<div class="column"><span class="data-label">VIN</span> JTMRJREV4JD181322</div>
+<span class="data-label">VIN</span> JTMRJREV4JD181322
+VIN
+45
+
+Car count: 12

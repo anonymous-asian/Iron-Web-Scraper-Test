@@ -9,3 +9,18 @@ C:\Users\Josh Tierra\Source\Repos\Scrapper Settings\Scrapper Settings\obj\Debug\
 C:\Users\Josh Tierra\Source\Repos\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper Settings.pdb
 C:\Users\Josh Tierra\Source\Repos\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper_Settings.URL_Form.resources
 C:\Users\Josh Tierra\Source\Repos\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper_Settings.Scrape_Form.resources
+C:\Users\jctti\Desktop\Web Projects\Git Projects\Iron-Web-Scraper-Test\Scrapper Settings\Scrapper Settings\bin\Debug\Scrapper Settings.exe.config
+C:\Users\jctti\Desktop\Web Projects\Git Projects\Iron-Web-Scraper-Test\Scrapper Settings\Scrapper Settings\bin\Debug\Scrapper Settings.exe
+C:\Users\jctti\Desktop\Web Projects\Git Projects\Iron-Web-Scraper-Test\Scrapper Settings\Scrapper Settings\bin\Debug\Scrapper Settings.pdb
+C:\Users\jctti\Desktop\Web Projects\Git Projects\Iron-Web-Scraper-Test\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper Settings.csprojResolveAssemblyReference.cache
+C:\Users\jctti\Desktop\Web Projects\Git Projects\Iron-Web-Scraper-Test\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper_Settings.URL_Form.resources
+C:\Users\jctti\Desktop\Web Projects\Git Projects\Iron-Web-Scraper-Test\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper_Settings.Properties.Resources.resources
+C:\Users\jctti\Desktop\Web Projects\Git Projects\Iron-Web-Scraper-Test\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper Settings.csproj.GenerateResource.cache
+C:\Users\jctti\Desktop\Web Projects\Git Projects\Iron-Web-Scraper-Test\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper Settings.csproj.CoreCompileInputs.cache
+C:\Users\jctti\Desktop\Web Projects\Git Projects\Iron-Web-Scraper-Test\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper Settings.exe
+C:\Users\jctti\Desktop\Web Projects\Git Projects\Iron-Web-Scraper-Test\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper Settings.pdb
+C:\Users\jctti\Desktop\Web Projects\Git Projects\Iron-Web-Scraper-Test\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper Settings.csproj.CopyComplete
+C:\Users\jctti\Desktop\Web Projects\Git Projects\Iron-Web-Scraper-Test\Scrapper Settings\Scrapper Settings\bin\Debug\HtmlAgilityPack.dll
+C:\Users\jctti\Desktop\Web Projects\Git Projects\Iron-Web-Scraper-Test\Scrapper Settings\Scrapper Settings\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\jctti\Desktop\Web Projects\Git Projects\Iron-Web-Scraper-Test\Scrapper Settings\Scrapper Settings\bin\Debug\HtmlAgilityPack.xml
+C:\Users\jctti\Desktop\Web Projects\Git Projects\Iron-Web-Scraper-Test\Scrapper Settings\Scrapper Settings\obj\Debug\Scrapper_Settings.Scrape_Form.resources

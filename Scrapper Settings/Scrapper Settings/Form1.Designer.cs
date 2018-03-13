@@ -49,6 +49,8 @@
             this.urlTextBox.Name = "urlTextBox";
             this.urlTextBox.Size = new System.Drawing.Size(224, 20);
             this.urlTextBox.TabIndex = 1;
+            this.urlTextBox.Text = "https://www.stonemountaintoyota.com/inventory?keyword=&submit=Submit&type=new&loc" +
+    "ation=&pg=";
             // 
             // startButton
             // 

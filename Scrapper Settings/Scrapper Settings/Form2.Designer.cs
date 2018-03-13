@@ -44,7 +44,7 @@
             this.optionsToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(284, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(713, 24);
             this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -60,14 +60,14 @@
             // returnToolStripMenuItem
             // 
             this.returnToolStripMenuItem.Name = "returnToolStripMenuItem";
-            this.returnToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.returnToolStripMenuItem.Size = new System.Drawing.Size(114, 22);
             this.returnToolStripMenuItem.Text = "Return";
             this.returnToolStripMenuItem.Click += new System.EventHandler(this.returnToolStripMenuItem_Click);
             // 
             // saveAsToolStripMenuItem
             // 
             this.saveAsToolStripMenuItem.Name = "saveAsToolStripMenuItem";
-            this.saveAsToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.saveAsToolStripMenuItem.Size = new System.Drawing.Size(114, 22);
             this.saveAsToolStripMenuItem.Text = "Save As";
             this.saveAsToolStripMenuItem.Click += new System.EventHandler(this.saveAsToolStripMenuItem_Click);
             // 
@@ -92,19 +92,19 @@
             // 
             // resultText
             // 
-            this.resultText.Location = new System.Drawing.Point(15, 87);
+            this.resultText.Location = new System.Drawing.Point(0, 87);
             this.resultText.Multiline = true;
             this.resultText.Name = "resultText";
             this.resultText.ReadOnly = true;
             this.resultText.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.resultText.Size = new System.Drawing.Size(257, 162);
+            this.resultText.Size = new System.Drawing.Size(713, 306);
             this.resultText.TabIndex = 3;
             // 
             // Scrape_Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.ClientSize = new System.Drawing.Size(713, 392);
             this.Controls.Add(this.resultText);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.labelURL);
