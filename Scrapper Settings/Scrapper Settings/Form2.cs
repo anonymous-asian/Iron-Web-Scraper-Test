@@ -38,9 +38,10 @@ namespace Scrapper_Settings
         {
             labelURL.Text = url;
 
+            
             //Create data table
             InitTable();
-
+            
             //HtmlAgilityPack.HtmlDocument doc = new HtmlAgilityPack.HtmlDocument();
             //List of car objects that store car details
             List<Car> cars = new List<Car>();
@@ -97,6 +98,8 @@ namespace Scrapper_Settings
                         }
                         //resultText.AppendText(Environment.NewLine + linkEnd + Environment.NewLine + url + Environment.NewLine);
                         Console.WriteLine(Environment.NewLine + Environment.NewLine + "Page " + i + " result: " + Environment.NewLine + newUrl);
+
+                        table.Rows.Add("Page " + i.ToString(), newUrl);
 
                         //Count the number of span nodes
                         int count = 0;
