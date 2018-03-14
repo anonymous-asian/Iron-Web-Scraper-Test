@@ -35,7 +35,9 @@
             this.labelURL = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.resultText = new System.Windows.Forms.TextBox();
+            this.dataTable = new System.Windows.Forms.DataGridView();
             this.menuStrip1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataTable)).BeginInit();
             this.SuspendLayout();
             // 
             // menuStrip1
@@ -92,19 +94,28 @@
             // 
             // resultText
             // 
-            this.resultText.Location = new System.Drawing.Point(0, 87);
+            this.resultText.Location = new System.Drawing.Point(421, 27);
             this.resultText.Multiline = true;
             this.resultText.Name = "resultText";
             this.resultText.ReadOnly = true;
             this.resultText.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.resultText.Size = new System.Drawing.Size(713, 306);
+            this.resultText.Size = new System.Drawing.Size(280, 41);
             this.resultText.TabIndex = 3;
+            // 
+            // dataTable
+            // 
+            this.dataTable.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataTable.Location = new System.Drawing.Point(0, 91);
+            this.dataTable.Name = "dataTable";
+            this.dataTable.Size = new System.Drawing.Size(713, 467);
+            this.dataTable.TabIndex = 4;
             // 
             // Scrape_Form
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(713, 392);
+            this.Controls.Add(this.dataTable);
             this.Controls.Add(this.resultText);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.labelURL);
@@ -115,6 +126,7 @@
             this.Load += new System.EventHandler(this.Scrape_Results_Load);
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataTable)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -129,5 +141,6 @@
         private System.Windows.Forms.Label labelURL;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.TextBox resultText;
+        private System.Windows.Forms.DataGridView dataTable;
     }
 }

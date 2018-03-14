@@ -5,11 +5,13 @@ using System.Threading.Tasks;
 using HtmlAgilityPack;
 using System.Diagnostics;
 using System.Collections.Generic;
+using System.Data;
 
 namespace Scrapper_Settings
 {
     public partial class Scrape_Form : Form
     {
+        DataTable table;
         HtmlWeb web = new HtmlWeb();
         string url = "";
         public Scrape_Form(string url)
@@ -24,10 +26,21 @@ namespace Scrapper_Settings
                 AnchorStyles.Left;
         }
 
+        private void InitTable()
+        {
+            table = new DataTable("CarDataTable");
+            table.Columns.Add("Page", typeof(string));
+            table.Columns.Add("Link", typeof(string));
+            dataTable.DataSource = table;
+        }
+
         private async void Scrape_Results_Load(object sender, EventArgs e)
         {
             labelURL.Text = url;
-           
+
+            //Create data table
+            InitTable();
+
             //HtmlAgilityPack.HtmlDocument doc = new HtmlAgilityPack.HtmlDocument();
             //List of car objects that store car details
             List<Car> cars = new List<Car>();
@@ -110,6 +123,8 @@ namespace Scrapper_Settings
             resultText.Text = "Total web scraper time: " + totalTime.Elapsed;
             resultText.AppendText(Environment.NewLine + "Total cars: " + carCount.ToString());
         }
+
+
 
         private void returnToolStripMenuItem_Click(object sender, EventArgs e)
         {
