@@ -3,17 +3,19 @@ using System.Windows.Forms;
 using System.IO;
 using System.Threading.Tasks;
 using HtmlAgilityPack;
-using System.Linq;
+using System.Diagnostics;
 using System.Collections.Generic;
 
 namespace Scrapper_Settings
 {
     public partial class Scrape_Form : Form
     {
+        HtmlWeb web = new HtmlWeb();
         public Scrape_Form(string url)
         {
             InitializeComponent();
             Global.url = url;
+            
             resultText.Anchor =
                 AnchorStyles.Top |
                 AnchorStyles.Bottom |
@@ -24,56 +26,70 @@ namespace Scrapper_Settings
         private async void Scrape_Results_Load(object sender, EventArgs e)
         {
             labelURL.Text = Global.url;
-
-            HtmlWeb web = new HtmlWeb();
+           
             //HtmlAgilityPack.HtmlDocument doc = new HtmlAgilityPack.HtmlDocument();
             //List of car objects that store car details
             List<Car> cars = new List<Car>();
-            //Start web crawler asynchronously with return type void
-            int pageNumber = 1;
-            int[] ids = new[] { 1, 2, 3, 4, 5 };
-            var doc = await Task.Factory.StartNew(() => web.Load(string.Format(Global.url + "{0}", pageNumber.ToString())));
-
+            
+            //var doc = await Task.Factory.StartNew(() => web.Load(string.Format(Global.url + "{0}", pageNumber.ToString())));
             int carCount = 0;
 
-            //Selects div that holds each car entry in the list
-            foreach(var carNodes in doc.DocumentNode.SelectNodes("//*[@id]/div/div/div[2]"))
+            int[] pages = new int[] { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 };
+
+            Parallel.For(1, 11, i =>
             {
-                carCount++;
-                //Create car object that stores:
-                //link
-                //color
-                //transmission
-                //mileage (int)
-                //driveTrain
-                //vin
-                Car car = new Car();
+                var doc = web.Load(string.Format(Global.url + "{0}", i.ToString()));
+                
+                //Keep track of the elapsed process time of the Task
+                Stopwatch stopwatch = new Stopwatch();
+                stopwatch.Start();
 
-                //Gets the first node with a link -> carNodes.SelectSingleNode(".//a")
-                //Gets the href attribute from link node -> Attributes["href"].Value
-                //In our case the first link node is the link to the car's detail page
-                string linkEnd = carNodes.SelectSingleNode(".//a").Attributes["href"].Value;
-
-                //Format the url
-                //Link href only contains the last part of the link
-                //Append it to http://car-website.com
-                string url = Global.url.Substring(0, Global.url.LastIndexOf(".com")+4) + linkEnd;
-                resultText.AppendText(Environment.NewLine + linkEnd + Environment.NewLine + url + Environment.NewLine);
-
-                //Count the number of span nodes
-                int count = 0;
-
-                //Traverse the carNode for the car details
-                foreach (var innerNode in carNodes.SelectNodes(".//*[contains('span', '')]"))
+                //Selects div that holds each car entry in the list
+                foreach (var carNodes in doc.DocumentNode.SelectNodes("//*[@id]/div/div/div[2]"))
                 {
-                    count++;
-                    resultText.AppendText(Environment.NewLine);
-                    resultText.AppendText(innerNode.InnerHtml);
-                }
-                resultText.AppendText(count.ToString());
-            }
+                    carCount++;
+                    //Create car object that stores:
+                    //link
+                    //color
+                    //transmission
+                    //mileage (int)
+                    //driveTrain
+                    //vin
+                    Car car = new Car();
 
-            resultText.AppendText(Environment.NewLine + Environment.NewLine + "Car count: " + carCount.ToString());
+                    //Gets the first node with a link -> carNodes.SelectSingleNode(".//a")
+                    //Gets the href attribute from link node -> Attributes["href"].Value
+                    //In our case the first link node is the link to the car's detail page
+                    string linkEnd = carNodes.SelectSingleNode(".//a").Attributes["href"].Value;
+
+                    //Format the url
+                    //Link href only contains the last part of the link
+                    //Append it to http://car-website.com
+                    string url = Global.url.Substring(0, Global.url.LastIndexOf(".com") + 4) + linkEnd;
+                    //resultText.AppendText(Environment.NewLine + linkEnd + Environment.NewLine + url + Environment.NewLine);
+                    Console.WriteLine(Environment.NewLine + Environment.NewLine + "Page " + i + " result: " + Environment.NewLine + url);
+
+                    //Count the number of span nodes
+                    int count = 0;
+
+                    //Traverse the carNode for the car details
+                    foreach (var innerNode in carNodes.SelectNodes(".//*[contains('span', '')]"))
+                    {
+                        count++;
+                        //resultText.AppendText(Environment.NewLine);
+                        //resultText.AppendText(innerNode.InnerHtml);
+                    }
+                    //resultText.AppendText(count.ToString());
+                }
+                //resultText.AppendText(Environment.NewLine + Environment.NewLine + "Car count: " + carCount.ToString());
+                //resultText.AppendText(Environment.NewLine + "Page #" + i + Environment.NewLine);
+
+                stopwatch.Stop();
+                Console.WriteLine("Page " + i + " completed in: " + stopwatch.Elapsed);
+                Console.WriteLine(Global.url + "{0}", i.ToString());
+                Console.WriteLine(Environment.NewLine + "||---------------------------------------------------------------------------------------------------------------------------------------||" + Environment.NewLine);
+            });
+
         }
 
         private void returnToolStripMenuItem_Click(object sender, EventArgs e)
