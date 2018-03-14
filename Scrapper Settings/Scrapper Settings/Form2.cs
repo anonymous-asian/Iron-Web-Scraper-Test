@@ -36,8 +36,8 @@ namespace Scrapper_Settings
 
         private async void Scrape_Results_Load(object sender, EventArgs e)
         {
+            //Set url label
             labelURL.Text = url;
-
             
             //Create data table
             InitTable();
@@ -45,17 +45,17 @@ namespace Scrapper_Settings
             //HtmlAgilityPack.HtmlDocument doc = new HtmlAgilityPack.HtmlDocument();
             //List of car objects that store car details
             List<Car> cars = new List<Car>();
-            
-            //var doc = await Task.Factory.StartNew(() => web.Load(string.Format(url + "{0}", pageNumber.ToString())));
+
             int carCount = 0;
 
+            //Stopwatch of total elapsed time
             Stopwatch totalTime = new Stopwatch();
             totalTime.Start();
-
-            //int[] pages = new[] { };
-            //var test = await Task.Factory.StartNew(() => web.Load(url));
+            
+            //Asynchronously call every page
             Parallel.For(1, 50, i =>
             {
+                //Load page i of the dealership inventory page
                 var doc = web.Load(string.Format(url + "{0}", i.ToString()));
                 
                 //Keep track of the elapsed process time of the Task
