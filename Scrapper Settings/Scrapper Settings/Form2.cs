@@ -19,6 +19,7 @@ namespace Scrapper_Settings
             InitializeComponent();
             this.url = url;
             
+            //Positioning of new window
             resultText.Anchor =
                 AnchorStyles.Top |
                 AnchorStyles.Bottom |
@@ -116,12 +117,15 @@ namespace Scrapper_Settings
                     //resultText.AppendText(Environment.NewLine + Environment.NewLine + "Car count: " + carCount.ToString());
                     //resultText.AppendText(Environment.NewLine + "Page #" + i + Environment.NewLine);
 
+                    //Stop single car stopwatch and display time
                     stopwatch.Stop();
                     Console.WriteLine("Page " + i + " completed in: " + stopwatch.Elapsed);
                     Console.WriteLine(url + "{0}", i.ToString());
                     Console.WriteLine(Environment.NewLine + "||---------------------------------------------------------------------------------------------------------------------------------------||" + Environment.NewLine);
                 }
             });
+
+            //Stop all car stopwatch and display total time
             totalTime.Stop();
             resultText.Text = "Total web scraper time: " + totalTime.Elapsed;
             resultText.AppendText(Environment.NewLine + "Total cars: " + carCount.ToString());
@@ -136,6 +140,7 @@ namespace Scrapper_Settings
 
         private void saveAsToolStripMenuItem_Click(object sender, EventArgs e)
         {
+            //Saves file to text file called scrape.txt
             File.WriteAllText("scrape.txt", resultText.Text);
         }
     }
