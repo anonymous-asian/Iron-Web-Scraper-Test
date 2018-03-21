@@ -105,11 +105,19 @@ namespace Scrapper_Settings
                         //Count the number of span nodes
                         int count = 0;
 
+                        //Search string for specific car detail
+                        string[] search = { "Engine" };
+
                         //Traverse the carNode for the car details
-                        foreach (var innerNode in carNodes.SelectNodes(".//*[contains('span', '')]"))
+                        //Searching node by contents of inner text
+                        foreach (var innerNode in carNodes.SelectNodes(".//*[contains('" + search[0] + "', '')]"))
                         {
-                            //Search string for specific car detail
-                            string[] search = { "Engine" };
+                            
+
+                            string engine = "Unknown";
+                            if(innerNode!=null)
+                                engine = innerNode.InnerText;
+                            Console.WriteLine("\n" + engine);
                             count++;
                             //resultText.AppendText(Environment.NewLine);
                             //resultText.AppendText(innerNode.InnerHtml);
