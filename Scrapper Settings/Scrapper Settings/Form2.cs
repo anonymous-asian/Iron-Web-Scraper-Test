@@ -109,7 +109,7 @@ namespace Scrapper_Settings
                         foreach (var innerNode in carNodes.SelectNodes(".//*[contains('span', '')]"))
                         {
                             //Search string for specific car detail
-                            string[] search = { };
+                            string[] search = { "Engine" };
                             count++;
                             //resultText.AppendText(Environment.NewLine);
                             //resultText.AppendText(innerNode.InnerHtml);
